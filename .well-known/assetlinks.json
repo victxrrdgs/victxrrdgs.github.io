@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.victxrrdgs.financas",
+        "sha256_cert_fingerprints": ["FB:8F:E8:6A:79:CC:57:7A:FA:3B:37:3B:92:E6:A5:C7:DF:50:0F:AF:B5:A1:F7:0A:A5:36:D6:AF:31:CF:AB:B2"]
+      }
+    }]
