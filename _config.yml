@@ -1,0 +1,2 @@
+# Publica a pasta .well-known (o Jekyll ignora pastas com ponto por padrão)
+include: [".well-known"]
